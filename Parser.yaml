@@ -1,0 +1,17 @@
+parsers: # array
+  - 
+    url: https://sub.wavecloud.us:4433/link/T9U0r7yLx9kFLXeK?clash=1
+    yaml: 
+      append-proxies:
+        - name: Free?
+          type: ss
+          server: 219.224.167.184
+          port: 10800
+          cipher: chacha20-ietf-poly1305
+          password: buaa!1701
+      commands:
+        - proxy-groups.🚀直接连接.proxies.1+Free?
+        - proxy-groups.🎬哔哩哔哩.proxies.1+Free?
+  -
+    url: https://sub.wavecloud.us:4433/link/T9U0r7yLx9kFLXeK?clash=1
+    file: "C:/Users/lyt/.config/clash/js/DTZ.js"
